@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuanmg-p
-- 👀 I’m interested in nothing
+- 👀 I’m interested building an applications with the help of AI
 - 🌱 I’m currently learning website developing, software developing.
-- 💞️ I’m looking to collaborate with my cousin in Norway
+- 💞️ I’m looking to collaborate with senior developers.
 - 📫 Reach me on https://www.facebook.com/Macoyy19 , https://www.youtube.com/channel/UCfEfPW0Sqcox2XzWh6lM7DA , and yuanmig19@gmail.com
 
 <!---
