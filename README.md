@@ -13,7 +13,7 @@
 
 ## About Me
 
-- I’m a 4th-year Computer Science student at the University of Immaculate Conception.
+- I’m a fresh Computer Science graduate from the University of Immaculate Conception.
 - Currently focused on web development and building applications powered by AI.
 - Actively learning and working on real-world projects to improve my skills.
 - Exploring tools like **Cursor AI** to boost my productivity and accelerate learning.
