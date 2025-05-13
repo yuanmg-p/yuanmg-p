@@ -4,6 +4,10 @@
   Aspiring Developer | Web Enthusiast | AI Explorer
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" alt="Profile image" />
+</p>
+
 ---
 
 ## About Me
@@ -29,6 +33,12 @@ Web development, UI/UX design, AI applications, automation
 
 ---
 
+## Now Learning
+
+![Now Learning](https://img.shields.io/badge/Learning-Full%20Stack%20Development-blue?style=for-the-badge)
+
+---
+
 ## Contact Me
 
 Feel free to connect or collaborate through the platforms below:
@@ -46,7 +56,16 @@ Feel free to connect or collaborate through the platforms below:
 - Building a portfolio to showcase my projects  
 
 **Long-Term Goal:**  
-To become a software engineer at any company willing to give me a chance—where I can learn, grow, and contribute meaningfully to real-world projects.
+To become a software engineer at any company willing to give me a chance where I can learn, grow, and contribute meaningfully to real-world projects.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuanmg-p&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanmg-p&layout=compact&theme=default" width="48%" />
+</p>
 
 ---
 
