@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" alt="Profile image" />
+  <img src="https://github.com/yuanmg-p/yuanmg-p/blob/main/gradphoto.jpg?raw=true" width="150" alt="Profile image" />
+
 </p>
 
 ---
